@@ -1,0 +1,3 @@
+Incercari corecte = 594, Incercari_gresite= 169, Total Incercari=763
+
+Timp rulare: 190.57669973373413
